@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todolistassign/static/css/main.dd7de2ca.css",
+    "main.js": "/Todolistassign/static/js/main.9e505c91.js",
+    "static/js/787.30b79000.chunk.js": "/Todolistassign/static/js/787.30b79000.chunk.js",
+    "index.html": "/Todolistassign/index.html",
+    "main.dd7de2ca.css.map": "/Todolistassign/static/css/main.dd7de2ca.css.map",
+    "main.9e505c91.js.map": "/Todolistassign/static/js/main.9e505c91.js.map",
+    "787.30b79000.chunk.js.map": "/Todolistassign/static/js/787.30b79000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7de2ca.css",
+    "static/js/main.9e505c91.js"
+  ]
+}
